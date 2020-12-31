@@ -21,7 +21,7 @@ The data store will support the following requirements:
 
 9. The file is accessed by multi-threading.
 
-The data will also support the following non-functional requirements:
+The data store will also support the following non-functional requirements:
 
 1. The size of the stored data will never exceed 1GB.
 
